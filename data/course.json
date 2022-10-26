@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "categoryId": 1,
       "title": "Ethical Hacking",
       "price": 109.95,
       "duration": 30,
@@ -12,6 +13,7 @@
     },
     {
       "id": 2,
+      "categoryId": 1,
       "title": "Full stack Web development",
       "price": 109.95,
       "duration": 30,
@@ -23,6 +25,7 @@
     },
     {
       "id": 3,
+      "categoryId": 2,
       "title": "Graphic design",
       "price": 109.95,
       "duration": 30,
@@ -34,6 +37,7 @@
     },
     {
       "id": 4,
+      "categoryId": 2,
       "title": "Wordpress development",
       "price": 109.95,
       "duration": 30,
@@ -45,6 +49,7 @@
     },
     {
       "id": 5,
+      "categoryId": 3,
       "title": "Digital Marketing",
       "price": 109.95,
       "duration": 30,
@@ -55,7 +60,8 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
+      "categoryId": 3,
       "title": "Blockchain Development",
       "price": 109.95,
       "duration": 30,
