@@ -14,5 +14,13 @@
     {
         "id": 3,
         "name": "digital marketing"
+    },
+    {
+        "id": 4,
+        "name": "computer"
+    },
+    {
+        "id": 5,
+        "name": "Blockchain"
     }
 ]

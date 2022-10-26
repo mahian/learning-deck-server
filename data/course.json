@@ -70,5 +70,29 @@
         "rate": 3.9,
         "count": 120
       }
+    },
+    {
+      "id": 7,
+      "categoryId": 4,
+      "title": "Basic computer Concept",
+      "price": 1000,
+      "duration": 30,
+      "image": "https://digitalmarketingdeal.com/blog/wp-content/uploads/2019/12/What-is-a-computer.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 8,
+      "categoryId": 5,
+      "title": "blockchain-development",
+      "price": 5000,
+      "duration": 30,
+      "image": "https://blog.sagipl.com/wp-content/uploads/2017/11/blockchain-development.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
     }
   ]
